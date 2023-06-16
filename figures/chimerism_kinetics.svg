@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='79.20pt' height='180.00pt' viewBox='0 0 79.20 180.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw3OS4yMHwwLjAwfDE4MC4wMA=='>
+    <rect x='0.00' y='0.00' width='79.20' height='180.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw3OS4yMHwwLjAwfDE4MC4wMA==)'>
+<rect x='0.00' y='0.00' width='79.20' height='180.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMzkuMTF8NzMuNzJ8NS40OHwxMTcuMzA='>
+    <rect x='39.11' y='5.48' width='34.61' height='111.82' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzkuMTF8NzMuNzJ8NS40OHwxMTcuMzA=)'>
+<rect x='39.11' y='5.48' width='34.61' height='111.82' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='48.55' cy='30.01' r='0.89' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='64.28' cy='40.88' r='0.89' style='stroke-width: 0.71; fill: #000000;' />
+<polyline points='48.55,30.01 64.28,40.88 ' style='stroke-width: 1.07; stroke: #FD8D3C; stroke-linecap: butt;' />
+<circle cx='48.55' cy='29.60' r='0.89' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='64.28' cy='11.90' r='0.89' style='stroke-width: 0.71; fill: #000000;' />
+<polyline points='48.55,29.60 64.28,11.90 ' style='stroke-width: 1.07; stroke: #BDBDBD; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw3OS4yMHwwLjAwfDE4MC4wMA==)'>
+<polyline points='39.11,117.30 39.11,5.48 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<text x='34.18' y='115.79' text-anchor='end' style='font-size: 10.00px; font-family: "Arial";' textLength='5.57px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='34.18' y='90.38' text-anchor='end' style='font-size: 10.00px; font-family: "Arial";' textLength='11.13px' lengthAdjust='spacingAndGlyphs'>25</text>
+<text x='34.18' y='64.97' text-anchor='end' style='font-size: 10.00px; font-family: "Arial";' textLength='11.13px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='34.18' y='39.56' text-anchor='end' style='font-size: 10.00px; font-family: "Arial";' textLength='11.13px' lengthAdjust='spacingAndGlyphs'>75</text>
+<text x='34.18' y='14.14' text-anchor='end' style='font-size: 10.00px; font-family: "Arial";' textLength='16.70px' lengthAdjust='spacingAndGlyphs'>100</text>
+<polyline points='36.37,112.21 39.11,112.21 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='36.37,86.80 39.11,86.80 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='36.37,61.39 39.11,61.39 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='36.37,35.97 39.11,35.97 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='36.37,10.56 39.11,10.56 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='39.11,117.30 73.72,117.30 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='48.55,120.04 48.55,117.30 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='64.28,120.04 64.28,117.30 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<text transform='translate(52.13,122.23) rotate(-90)' text-anchor='end' style='font-size: 10.00px; font-family: "Arial";' textLength='42.29px' lengthAdjust='spacingAndGlyphs'>diagnosis</text>
+<text transform='translate(67.86,122.23) rotate(-90)' text-anchor='end' style='font-size: 10.00px; font-family: "Arial";' textLength='52.29px' lengthAdjust='spacingAndGlyphs'>progression</text>
+<text transform='translate(12.64,61.39) rotate(-90)' text-anchor='middle' style='font-size: 10.00px; font-family: "Arial";' textLength='97.86px' lengthAdjust='spacingAndGlyphs'>% recipient chimerism</text>
+</g>
+</svg>
